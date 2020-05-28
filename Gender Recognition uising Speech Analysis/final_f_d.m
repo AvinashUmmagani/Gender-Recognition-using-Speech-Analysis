@@ -1,7 +1,7 @@
 clear;
 clc;
 
-filename= 'wav\female\arctic_a0035.wav';
+filename= 'Female\arctic_a0007.wav';
 
 [y,Fs]= audioread(filename);
 N=length(y);
